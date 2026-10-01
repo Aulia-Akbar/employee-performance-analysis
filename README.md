@@ -32,7 +32,7 @@ Analyze attrition, salary, and performance patterns to identify where HR should 
 
 | # | Finding | Recommendation |
 |---|---------|----------------|
-| 1 | Attrition is even across departments, ranging from 9.6% to 10.5% (overall 10.0%) | Run retention programs company-wide rather than per department |
+| 1 | Attrition is even across departments, ranging from 9.6% to 10.8% (overall 10.0%) | Run retention programs company-wide rather than per department |
 | 2 | Average salary rises consistently with performance score, from 5,422 (score 1) to 7,398 (score 5) | The performance-based pay system works well; keep it |
 | 3 | Overtime, performance, and satisfaction are nearly identical across departments | Look for causes of dissatisfaction at the individual level, not the team level |
 | 4 | Technicians earn far less (4,545) than Engineers and Managers (about 7,800) | Review whether pay gaps exist between genders within the same job title |
