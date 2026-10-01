@@ -55,7 +55,7 @@ Microsoft Excel: PivotTable, PivotChart, Slicer, Conditional Formatting, formula
 
 ## How to Open
 
-Download `Employee_Performance_Analysis.xlsb` and open it in Microsoft Excel. The file uses the Excel Binary format (.xlsb) to stay under GitHub's file size limit.
+[Download Employee_Performance_Analysis.xlsb](https://github.com/Aulia-Akbar/employee-performance-analysis/raw/main/Employee_Performance_Analysis.xlsb) and open it in Microsoft Excel. The file uses the Excel Binary format (.xlsb) to stay under GitHub's file size limit.
 
 ## Author
 
